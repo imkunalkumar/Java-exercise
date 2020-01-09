@@ -1,9 +1,6 @@
 package day1;
-
 public class TestClass {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
 /*this program is written for
  * testing
  */
@@ -18,5 +15,4 @@ System.out.println(result);
 System.out.println("result="+result);
 
 	}
-
 }
